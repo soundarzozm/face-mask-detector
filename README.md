@@ -35,9 +35,9 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Data Processing](#process)
-  * [Model Definition](#def)
-  * [Model Training, and Evaluation](#train)
+  * [Data Processing](#data-processing)
+  * [Model Definition](#model-definition)
+  * [Model Training, and Evaluation](#model-training,-and-evaluation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -49,7 +49,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a **Deep Learning Natural Language Processing** project using [IMDb Reviews Dataset](https://www.dropbox.com/s/bjk9tydkqrza8p8/IMDb_Reviews.csv?dl=1).<br>
+This is a **Deep Learning Computer Vision** project using [Prajna Bhandary](https://www.dropbox.com/s/bjk9tydkqrza8p8/IMDb_Reviews.csv?dl=1)'s dataset.<br>
 This project consists of *data processing*, *model definition* and *model training and evaluation* using tensorflow. 
 
 
@@ -58,7 +58,10 @@ This project consists of *data processing*, *model definition* and *model traini
 * [Matplotlib](https://matplotlib.org/)
 * [Tensorflow](https://www.tensorflow.org/)
 * [Sci-Kit Learn](https://scikit-learn.org/)
-* [Pandas](https://pandas.pydata.org/)
+* [Keras](https://keras.io/)
+* [OpenCV](https://opencv.org/)
+* [Imutils](https://pypi.org/project/imutils/)
+* [NumPy](https://numpy.org/)
 
 
 
