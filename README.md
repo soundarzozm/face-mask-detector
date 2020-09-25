@@ -5,9 +5,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="left">
 
@@ -27,9 +24,6 @@
   </p>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -45,13 +39,9 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a **Deep Learning Computer Vision** project using [Prajna Bhandary](https://www.dropbox.com/s/bjk9tydkqrza8p8/IMDb_Reviews.csv?dl=1)'s dataset.<br>
+This is a **Deep Learning Computer Vision** project using [Prajna Bhandary](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655711815361761280/)'s dataset.<br>
 This project consists of *data processing*, *model definition* and *model training and evaluation* using tensorflow. 
-
 
 ### Built With
 
@@ -63,9 +53,6 @@ This project consists of *data processing*, *model definition* and *model traini
 * [Imutils](https://pypi.org/project/imutils/)
 * [NumPy](https://numpy.org/)
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 The project consists of three stages:
@@ -91,27 +78,18 @@ Model evaluation refers to the process of evaluating the process of the models u
 <br>
 It is an iterative process until required performance is obtained. 
 
-
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
-This model can be used to analyse the sentiment in a given piece of text. This has its various applications such as:<br>
-* Spam Classification
-* Business Analytics
-* Social Monitoring
+This model can be used to detect masks on faces to provide safety solutions for COVID-19 and other health issues. This has its various applications such as:<br>
+* Automated door access control based on mask
+* Statistical observation of people wearing masks
 * Market Research
-* Product Analysis
+* Social Distancing implementation
 
-
-<!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/soundarzozm/face-mask-detector/issues) for a list of proposed features (and known issues).
 
-
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -122,16 +100,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
-<!-- CONTACT -->
 ## Contact
 
 Soundar Murugan - [@soundarzozm](https://twitter.com/soundarzozm)<br>
@@ -139,19 +111,10 @@ E-Mail - [soundarmurugan91@gmail.com](soundarmurugan91@gmail.com)
 
 Project Link: [https://github.com/soundarzozm/face-mask-detector](https://github.com/soundarzozm/face-mask-detector)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Andrew Maas](http://ai.stanford.edu/~amaas/) for providing the dataset for public use.
+* [Prajna Bhandary](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655711815361761280/) for providing the dataset for public use.
 
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/soundarzozm/face-mask-detector.svg?style=flat-square
 [contributors-url]: https://github.com/soundarzozm/face-mask-detector/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/soundarzozm/face-mask-detector.svg?style=flat-square
