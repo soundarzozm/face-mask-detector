@@ -104,7 +104,7 @@ This model can be used to analyse the sentiment in a given piece of text. This h
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/soundarzozm/IMDb-Sentiment_Analysis/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/soundarzozm/face-mask-detector/issues) for a list of proposed features (and known issues).
 
 
 
@@ -134,7 +134,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Soundar Murugan - [@soundarzozm](https://twitter.com/soundarzozm)<br>
 E-Mail - [soundarmurugan91@gmail.com](soundarmurugan91@gmail.com)
 
-Project Link: [https://github.com/soundarzozm/IMDb-Sentiment_Analysis](https://github.com/soundarzozm/IMDb-Sentiment_Analysis)
+Project Link: [https://github.com/soundarzozm/face-mask-detector](https://github.com/soundarzozm/face-mask-detector)
 
 
 
