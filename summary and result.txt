@@ -1,0 +1,23 @@
+The model was built using the following:
+1) TensorFlow
+2) OpenCV
+3) imutils
+
+
+The model provided:
+Accuracy: 100% on validation set
+          99% on training set
+
+The model was trained using state of the art inception_v3 model.
+
+
+Observation:
+The model performed well on portrait images but had difficulty in detection when it came to images with a lot of tiny faces.
+This is because of the fact that the model was trained with small input size (256x256) due to limitation of computational power from my end.
+Training a network with larger dimensions would help rectify this issue.
+Also, acquiring a larger dataset would help improve the efficiency of the model.
+
+When it came to videos, the processing was slow (again because of limited computational power from my end).
+This can be rectified training the model on a cloud service like IBM Watson Studio, Microsoft Azure, Google colab etc.
+
+Further scope of improvement exists in video processing where one can make the model detect multiple faces at the same time in an efficient manner.
